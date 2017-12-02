@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Computer Science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "Path to a free self-taught education in Computer Science"
+  },
+  {
+    "name": "Bioinformatics",
+    "url": "https://github.com/ossu/bioinformatics",
+    "desc": "Path to a free self-taught education in Bioinformatics"
+  },
+  {
+    "name": "Data Science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "Path to a free self-taught education in Data Science"
+  },
+  {
+    "name": "Cohorts",
+    "url": "https://github.com/ossu/cohorts",
+    "desc": "Enables students of any OSSU curriculum to study together, learn from each other, and keep each other accountable."
+  },
+  {
+    "name": "Forum",
+    "url": "https://github.com/ossu/forum",
+    "desc": "OSSU's general forum"
+  }
+]

@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: OSSU
-subtitle: Open Source Society University
-description: Free self-taught education.
+title: Open Source Society University
+subtitle:
+description:
 author: OSSU
 language:
 timezone:
